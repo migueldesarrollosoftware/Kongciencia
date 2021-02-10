@@ -1,2 +1,2 @@
 # Kongciencia
-proyecto de empresa KongCiencia 
+empresa encargada en venta de ropa urbana.
