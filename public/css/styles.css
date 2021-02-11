@@ -474,25 +474,10 @@ mark,
   content: "— ";
 }
 
-@media (min-width: 768px) {
-  .img-fluid {
-    width: 60px;
-    height: 60px;
-  }
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
-@media (min-width: 1000px) {
-  .img-fluid {
-    width: 200px;
-    height: 200px;
-  }
-}
-@media (min-width: 1500px) {
-  .img-fluid {
-    width: 520px;
-    height: 520px;
-  }
-}
-
 
 .img-thumbnail {
   padding: 0.25rem;
